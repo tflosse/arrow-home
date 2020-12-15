@@ -71,9 +71,10 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    position: absolute;
-    bottom: 10vh;
+    /* position: fixed;
+    bottom: 10vh; */
     width: 100vw;
+    margin-bottom: 10vh;
 }
 
 .footer-logo {
