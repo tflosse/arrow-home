@@ -6,9 +6,9 @@ export default function Home() {
         <div>
             <div className="tagline-signup">
                 <h1>Grow with confidence.</h1>
-                <p>Best way to manage your produsts, process, and goals at scale.</p>
-                <form>
-                    <input
+                <p className="home-description">Best way to manage your produsts, process, and goals at scale.</p>
+                <form className="sign-up">
+                    <input className="email-input"
                     placeholder="Your email">
                     </input>
                     <button className="black-button">Sign up</button>
